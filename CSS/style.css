@@ -1,0 +1,48 @@
+body
+{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+h1
+{
+    margin-top: 0px;
+    position: relative;
+    top: 20px;
+}
+
+.foto-diri
+{
+    height: 250px; 
+    position: relative;
+    top: 11px;
+}
+
+.sub-judul
+{
+
+    font-size: 20px;
+}
+
+.Top_Container
+{
+    background-color: #CFFFDC;
+    padding: 100px;
+    position: relative;
+}
+
+.Middle_Container
+{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+}
+
+.Bottom_Container
+{
+    background-color: coral;
+    height: 200px;
+    width: 200px;
+}
