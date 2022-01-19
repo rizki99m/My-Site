@@ -3,6 +3,7 @@ body
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
+    margin-bottom: 0px;
     text-align: center;
     font-family: 'Righteous', cursive;
 }
@@ -23,6 +24,7 @@ hr
     border-top-style: dotted;
     border-width: 5px;
     width: 20%;
+    margin: 100px auto;
 }
 
 .foto-diri
@@ -50,10 +52,78 @@ hr
 {
     background-color: #FFF1BD ;
     position: relative;
-    padding: 50px 0;
+    padding: 100px 0;
 }
 .hello
 {
     height: 150px;
 }
 
+.tulisanhai
+{
+    font-size: 30px;
+}
+.intro
+{
+    width: 530px;
+    margin: auto;
+    font-size: 20px;
+
+}
+.bottom-container
+{
+    background-color: #FFEDED ;
+    position: relative;
+    padding: 20px 0 50px; 
+    height: 20px;
+}
+
+.merogram
+{
+    height: 150px;
+}
+.why
+{
+    width: 530px;
+    margin: auto;
+    font-size: 20px;
+}
+
+.hobby
+{
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+.contact-me
+{
+    margin-top: 70px;
+}
+
+.copyright
+{
+    
+    line-height: 2;
+}
+.btn {
+    -webkit-border-radius: 3;
+    -moz-border-radius: 3;
+    border-radius: 3px;
+    font-family: 'Righteous', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    background: #c7c37e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    line-height: 5;
+  }
+  
+  .btn:hover {
+    background: #96993a;
+    text-decoration: none;
+  }
+
+  .footer
+  {
+      color: black ;
+      
+  }
